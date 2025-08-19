@@ -93,7 +93,6 @@ Con esta solución, la empresa puede **reducir costos de adquisición de nuevos 
  ┣ 📜 data/datos_tratados # Conjunto de datos
  ┣ 📜 notebook.ipynb      # Desarrollo del análisis y modelado
  ┣ 📜 README.md           # Documentación del proyecto
- ┗ 📜 requirements.txt    # Librerías necesarias
 ```
 
 ---
